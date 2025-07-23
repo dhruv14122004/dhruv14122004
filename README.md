@@ -117,7 +117,7 @@
 <h2 align="center">Yearly Contribution</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dhruv14122004&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20in%20Last%20Year" alt="Dhruv's contribution graph"/>
+  <img src="https://ghchart.rshah.org/dhruv14122004" alt="Dhruv's contribution graph"/>
 </p>
 
 ---
