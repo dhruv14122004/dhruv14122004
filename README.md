@@ -62,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>&nbsp;
   <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
+  <!-- Supabase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="50" height="50"/>&nbsp;
   <!-- Go -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
   <!-- Docker -->
